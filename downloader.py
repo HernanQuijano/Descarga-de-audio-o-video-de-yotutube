@@ -52,7 +52,7 @@ class App(tk.Tk):
 
     def _mostrar_info(self):
         info_text = (
-            "Descargador de Audio o Video de YouTube\n"
+            "Descarga de Audio o Video de YouTube\n"
             "Versión: 1.0\n"
             "Autor: Hernan Quijano\n"
             "Este programa permite descargar videos o audios de YouTube en formato MP4 o MP3.\n"
